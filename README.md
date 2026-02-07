@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Discover 3009+ community-built OpenClaw skills, organized by category.
+    <strong>Discover 3009 community-built OpenClaw skills, organized by category.
     </strong>
     <br />
     <br />
@@ -19,7 +19,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Skills Count](https://img.shields.io/badge/skills-3009+-blue?style=flat-square)
+![Skills Count](https://img.shields.io/badge/skills-3009-blue?style=flat-square)
 ![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-clawdbot-skills?label=Last%20update&style=flat-square)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-clawdbot-skills?style=social)](https://github.com/VoltAgent/awesome-claude-skills/network/members)
@@ -67,11 +67,11 @@ You can also paste the skill's GitHub repository link directly into your assista
 
 | Filter | Excluded |
 |--------|----------|
-| Duplicate / Similar name — skills whose name matches or closely overlaps with an existing entry | 492 |
-| Crypto / Blockchain / Finance / Trade — skill name or description contains crypto, DeFi, trading, wallet, token, 0x-prefixed users, etc. | 669 |
-| Possibly spam — bulk-published accounts (>30 skills), non-English descriptions, platform-internal bot accounts, test/junk entries | 1,177 |
-| Malicious — flagged by external security audits (ClawHavoc campaign, AuthTool campaign, hidden backdoors, credential exfiltration) | 396 |
-| **Total excluded** | **2,734** |
+| Duplicate / Similar name | 492 |
+| Crypto / Blockchain / Finance / Trade | 669 |
+| Possibly spam — bulk accounts, non-English, bot accounts, test/junk | 1,177 |
+| Malicious — identified by security audits published by researchers (excluding VirusTotal) | 396 |
+| **Total not taken from OpenClaw's official skill registry** | **2,734** |
 
 > **Disclaimer:** Inclusion in this list does **not** guarantee a skill is safe or trustworthy. We recommend reviewing a skill before installing and using tools like Claude Code or Codex to inspect it for potentially harmful behavior.
 
